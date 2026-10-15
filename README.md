@@ -1,2 +1,2 @@
-# Burhanuddin-FA3
-FA3 - Hackerrank SQL questions
+# University Conference Publication Management System
+DBMS Project
